@@ -1,7 +1,7 @@
 # Example of HDF5 file structure
 
 This is a direct conversion of the notebook associated. 
-The hdf5 file has been created converting the gamma_test.simtel.gz and using a peak neighbour calibration.
+The hdf5 file has been created converting the gamma_test.simtel.gz and using a peak neighbour calibration. 
 If you have questions and remarks, you may contact me at thomas.vuillaume@lapp.in2p3.fr  
 
 
